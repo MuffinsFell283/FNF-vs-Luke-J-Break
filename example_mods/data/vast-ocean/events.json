@@ -1,0 +1,59 @@
+{
+	"song": {
+		"speed": 2,
+		"stage": "day",
+		"player1": "bf",
+		"player2": "luke-j-break",
+		"player3": null,
+		"events": [
+			[
+				5714.28571428571,
+				[
+					[
+						"Add Camera Zoom",
+						"0.03",
+						"0.06"
+					]
+				]
+			],
+			[
+				6190.47619047619,
+				[
+					[
+						"Add Camera Zoom",
+						"0.03",
+						"0.06"
+					]
+				]
+			],
+			[
+				6666.66666666667,
+				[
+					[
+						"Add Camera Zoom",
+						"0.03",
+						"0.06"
+					]
+				]
+			],
+			[
+				7142.85714285714,
+				[
+					[
+						"Add Camera Zoom",
+						"0.03",
+						"0.06"
+					]
+				]
+			]
+		],
+		"notes": [],
+		"splashSkin": "noteSplashes",
+		"validScore": false,
+		"gfVersion": "gf",
+		"bpm": 126,
+		"arrowSkin": "",
+		"needsVoices": true,
+		"song": "Vast Ocean"
+	}
+}

@@ -1,0 +1,44 @@
+{
+	"dialogue": [
+		{
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "cutscene",
+			"boxState": "normal",
+			"expression": "5",
+			"text": "bep boop!"
+		},
+    {
+      "sound": "Luketalk",
+      "speed": 0.05,
+      "portrait": "cutscene",
+      "boxState": "normal",
+      "expression": "5",
+      "text": "I had a blast too, thanks for the day!"
+    },
+		{
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "cutscene",
+			"boxState": "normal",
+			"expression": "5",
+			"text": "bop skdoo beep!"
+		},
+    {
+      "sound": "Luketalk",
+      "speed": 0.05,
+      "portrait": "cutscene",
+      "boxState": "normal",
+      "expression": "5",
+      "text": "Let's do it again when we meet somewhere else."
+    },
+    {
+      "sound": "Luketalk",
+      "speed": 0.05,
+      "portrait": "cutscene",
+      "boxState": "normal",
+      "expression": "6",
+      "text": "Good bye!"
+    }
+	]
+}

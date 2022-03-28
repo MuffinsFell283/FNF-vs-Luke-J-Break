@@ -1,0 +1,39 @@
+{
+	"song": {
+		"speed": 1,
+		"stage": "day-tutorial",
+		"player1": "bf",
+		"player2": "gf",
+		"player3": null,
+		"events": [
+			[
+				18058.2524271845,
+				[
+					[
+						"Hey!",
+						"GF",
+						""
+					]
+				]
+			],
+			[
+				27378.640776699,
+				[
+					[
+						"Hey!",
+						"GF",
+						""
+					]
+				]
+			]
+		],
+		"notes": [],
+		"splashSkin": null,
+		"validScore": false,
+		"gfVersion": "gf",
+		"bpm": 103,
+		"arrowSkin": null,
+		"needsVoices": false,
+		"song": "Tutorial"
+	}
+}

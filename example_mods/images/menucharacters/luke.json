@@ -1,0 +1,11 @@
+{
+	"idle_anim": "Luke_J_Break idle",
+	"image": "menu_luke",
+	"position": [
+		380,
+		565
+	],
+	"flipX": false,
+	"scale": 0.45,
+	"confirm_anim": "M Dad Idle"
+}

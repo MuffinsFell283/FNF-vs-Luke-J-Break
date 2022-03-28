@@ -1,0 +1,89 @@
+{
+	"dialogue_pos": "left",
+	"position": [
+		-50,
+		-50
+	],
+	"scale": 1.25,
+	"animations": [
+		{
+			"loop_name": "Luke talk",
+			"idle_offsets": [
+				0,
+				0
+			],
+			"idle_name": "Luke talk",
+			"anim": "talk",
+			"loop_offsets": [
+				0,
+				0
+			]
+		},
+		{
+			"loop_name": "Luke kime",
+			"idle_offsets": [
+				0,
+				0
+			],
+			"idle_name": "Luke kime",
+			"anim": "kime",
+			"loop_offsets": [
+				0,
+				0
+			]
+		},
+		{
+			"loop_name": "Luke smile",
+			"idle_offsets": [
+				0,
+				0
+			],
+			"idle_name": "Luke smile",
+			"anim": "smile",
+			"loop_offsets": [
+				0,
+				0
+			]
+		},
+		{
+			"loop_name": "Luke fx",
+			"idle_offsets": [
+				0,
+				0
+			],
+			"idle_name": "Luke fx",
+			"anim": "fx",
+			"loop_offsets": [
+				0,
+				0
+			]
+		},
+		{
+			"loop_name": "Luke huh",
+			"idle_offsets": [
+				0,
+				0
+			],
+			"idle_name": "Luke huh",
+			"anim": "huh",
+			"loop_offsets": [
+				0,
+				0
+			]
+		},
+		{
+			"loop_name": "Luke sleepy",
+			"idle_offsets": [
+				0,
+				0
+			],
+			"idle_name": "Luke sleepy",
+			"anim": "sleepy",
+			"loop_offsets": [
+				0,
+				0
+			]
+		}
+	],
+	"image": "Luke"
+}

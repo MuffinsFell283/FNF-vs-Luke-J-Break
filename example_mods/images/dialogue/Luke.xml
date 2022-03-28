@@ -1,0 +1,8 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="Luke.png"><SubTexture name="Luke talk0000" x="0" y="0" width="610" height="800" frameX="-23" frameY="-67" frameWidth="650" frameHeight="900" />
+<SubTexture name="Luke kime0000" x="610" y="0" width="610" height="800" frameX="-23" frameY="-67" frameWidth="650" frameHeight="900" />
+<SubTexture name="Luke smile0000" x="1220" y="0" width="610" height="800" frameX="-23" frameY="-67" frameWidth="650" frameHeight="900" />
+<SubTexture name="Luke fx0000" x="0" y="800" width="610" height="800" frameX="-23" frameY="-67" frameWidth="650" frameHeight="900" />
+<SubTexture name="Luke huh0000" x="610" y="800" width="610" height="800" frameX="-23" frameY="-67" frameWidth="650" frameHeight="900" />
+<SubTexture name="Luke sleepy0000" x="1220" y="800" width="610" height="800" frameX="-23" frameY="-67" frameWidth="650" frameHeight="900" />
+</TextureAtlas>

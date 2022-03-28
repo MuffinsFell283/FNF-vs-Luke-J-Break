@@ -1,0 +1,89 @@
+{
+	"animations": [
+		{
+			"loop": false,
+			"offsets": [
+				0,
+				0
+			],
+			"anim": "idle",
+			"fps": 24,
+			"name": "Luke_J_Break idle",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				50,
+				0
+			],
+			"anim": "singDOWN",
+			"fps": 24,
+			"name": "Luke_J_Break down",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				0,
+				0
+			],
+			"anim": "singUP",
+			"fps": 24,
+			"name": "Luke_J_Break up",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				270,
+				0
+			],
+			"anim": "singLEFT",
+			"fps": 24,
+			"name": "Luke_J_Break right",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				0,
+				0
+			],
+			"anim": "singRIGHT",
+			"fps": 24,
+			"name": "Luke_J_Break left",
+			"indices": []
+		},
+		{
+			"offsets": [
+				0,
+				0
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "dodge",
+			"loop": false,
+			"name": "Luke_J_Break dodge"
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/Luke_J_Break_playable",
+	"position": [
+		-320,
+		-490
+	],
+	"healthicon": "luke",
+	"flip_x": false,
+	"healthbar_colors": [
+		0,
+		153,
+		255
+	],
+	"camera_position": [
+		200,
+		260
+	],
+	"sing_duration": 4,
+	"scale": 0.9
+}

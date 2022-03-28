@@ -1,0 +1,50 @@
+{
+	"storyName": "vs Luke J Break",
+	"difficulties": "Ocean",
+	"hideFreeplay": false,
+	"weekBackground": "luke",
+	"weekBefore": "tutorial",
+	"freeplayColor": [
+		146,
+		113,
+		253
+	],
+	"startUnlocked": true,
+	"hideStoryMode": false,
+	"songs": [
+		[
+			"Vast ocean",
+			"luke",
+			[
+				46,
+				153,
+				255
+			]
+		],
+		[
+			"Sea currents",
+			"luke",
+			[
+				46,
+				153,
+				255
+			]
+		],
+		[
+			"Deep sea",
+			"luke",
+			[
+				46,
+				153,
+				255
+			]
+		]
+	],
+	"weekCharacters": [
+		"luke",
+		"lukebf",
+		"lukegf"
+	],
+	"hiddenUntilUnlocked": false,
+	"weekName": "Luke week"
+}

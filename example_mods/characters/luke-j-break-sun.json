@@ -1,0 +1,78 @@
+{
+	"animations": [
+		{
+			"loop": false,
+			"offsets": [
+				0,
+				0
+			],
+			"anim": "idle",
+			"fps": 24,
+			"name": "Luke_J_Break idle",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				0,
+				0
+			],
+			"anim": "singLEFT",
+			"fps": 24,
+			"name": "Luke_J_Break left",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-300,
+				0
+			],
+			"anim": "singRIGHT",
+			"fps": 24,
+			"name": "Luke_J_Break right",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-70,
+				0
+			],
+			"anim": "singDOWN",
+			"fps": 24,
+			"name": "Luke_J_Break down",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				0,
+				0
+			],
+			"anim": "singUP",
+			"fps": 24,
+			"name": "Luke_J_Break up",
+			"indices": []
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/Luke_J_Break-sun",
+	"position": [
+		-320,
+		-510
+	],
+	"healthicon": "luke",
+	"flip_x": false,
+	"healthbar_colors": [
+		0,
+		153,
+		255
+	],
+	"camera_position": [
+		200,
+		200
+	],
+	"sing_duration": 4,
+	"scale": 1
+}

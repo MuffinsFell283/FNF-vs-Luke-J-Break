@@ -1,0 +1,76 @@
+{
+	"dialogue": [
+		{
+			"sound": "Luketalk",
+			"speed": 0.05,
+			"portrait": "cutscene",
+			"boxState": "normal",
+			"expression": "1",
+			"text": "Yawn...I slept well..."
+		},
+    {
+      "sound": "Luketalk",
+      "speed": 0.05,
+      "portrait": "cutscene",
+      "boxState": "normal",
+      "expression": "2",
+      "text": "hmm?"
+    },
+		{
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "cutscene",
+			"boxState": "normal",
+			"expression": "3",
+			"text": "beep bop skebop"
+		},
+    {
+      "sound": "Luketalk",
+      "speed": 0.05,
+      "portrait": "cutscene",
+      "boxState": "normal",
+      "expression": "3",
+      "text": "Who are you?"
+    },
+		{
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "cutscene",
+			"boxState": "normal",
+			"expression": "3",
+			"text": "bep bop"
+		},
+    {
+      "sound": "Luketalk",
+      "speed": 0.05,
+      "portrait": "cutscene",
+      "boxState": "normal",
+      "expression": "3",
+      "text": "I'm Luke! Luke-J-Break! Nice to meet you!"
+    },
+		{
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "cutscene",
+			"boxState": "normal",
+			"expression": "3",
+			"text": "bap beep bop"
+		},
+    {
+      "sound": "Luketalk",
+      "speed": 0.05,
+      "portrait": "cutscene",
+      "boxState": "normal",
+      "expression": "4",
+      "text": "Rap battle? No problem!"
+    },
+    {
+      "sound": "Luketalk",
+      "speed": 0.05,
+      "portrait": "cutscene",
+      "boxState": "normal",
+      "expression": "4",
+      "text": "Let's do it!"
+    }
+	]
+}
